@@ -1279,7 +1279,191 @@
           }
         }
       ],
-      "HasResults": false
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": true,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µg/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Gepts 1987 - ID 215 - Propofol - IV - 12 mg/kg - Whole Blood - indiv.-Propofol-Arterial Blood-Whole Blood-Individual",
+              "X": "Gepts 1987 - ID 215 - Propofol - IV - 12 mg/kg - Whole Blood - indiv.|Time",
+              "Y": "Gepts 1987 - ID 215 - Propofol - IV - 12 mg/kg - Whole Blood - indiv.|ObservedData|Arterial Blood|Whole Blood|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#008000",
+                "LegendIndex": 7,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Gepts 1987 - ID 213 - Propofol - IV - 12 mg/kg - Whole Blood - indiv.-Propofol-Arterial Blood-Whole Blood-Individual",
+              "X": "Gepts 1987 - ID 213 - Propofol - IV - 12 mg/kg - Whole Blood - indiv.|Time",
+              "Y": "Gepts 1987 - ID 213 - Propofol - IV - 12 mg/kg - Whole Blood - indiv.|ObservedData|Arterial Blood|Whole Blood|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 6,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Gepts 1987 - ID 203 - Propofol - IV - 12 mg/kg - Whole Blood - indiv.-Propofol-Arterial Blood-Whole Blood-Individual",
+              "X": "Gepts 1987 - ID 203 - Propofol - IV - 12 mg/kg - Whole Blood - indiv.|Time",
+              "Y": "Gepts 1987 - ID 203 - Propofol - IV - 12 mg/kg - Whole Blood - indiv.|ObservedData|Arterial Blood|Whole Blood|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 5,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Propofol-Arterial Blood-Whole Blood-Concentration",
+              "X": "Time",
+              "Y": "Gepts 1987 12mg_kg|Organism|ArterialBlood|Propofol|Whole Blood",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 8
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "ChartWidth": 400,
+            "ChartHeight": 400,
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Propofol\nGepts 1987 12mg_kg\n2021-11-16 10:58"
+        },
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": true,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µg/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Gepts 1987 - ID 215 - Propofol - IV - 12 mg/kg - Whole Blood - indiv.-Propofol-Arterial Blood-Whole Blood-Individual",
+              "X": "Gepts 1987 - ID 215 - Propofol - IV - 12 mg/kg - Whole Blood - indiv.|Time",
+              "Y": "Gepts 1987 - ID 215 - Propofol - IV - 12 mg/kg - Whole Blood - indiv.|ObservedData|Arterial Blood|Whole Blood|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#008000",
+                "LegendIndex": 7,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Gepts 1987 - ID 213 - Propofol - IV - 12 mg/kg - Whole Blood - indiv.-Propofol-Arterial Blood-Whole Blood-Individual",
+              "X": "Gepts 1987 - ID 213 - Propofol - IV - 12 mg/kg - Whole Blood - indiv.|Time",
+              "Y": "Gepts 1987 - ID 213 - Propofol - IV - 12 mg/kg - Whole Blood - indiv.|ObservedData|Arterial Blood|Whole Blood|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 6,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Gepts 1987 - ID 203 - Propofol - IV - 12 mg/kg - Whole Blood - indiv.-Propofol-Arterial Blood-Whole Blood-Individual",
+              "X": "Gepts 1987 - ID 203 - Propofol - IV - 12 mg/kg - Whole Blood - indiv.|Time",
+              "Y": "Gepts 1987 - ID 203 - Propofol - IV - 12 mg/kg - Whole Blood - indiv.|ObservedData|Arterial Blood|Whole Blood|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 5,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Propofol-Arterial Blood-Whole Blood-Concentration",
+              "X": "Time",
+              "Y": "Gepts 1987 12mg_kg|Organism|ArterialBlood|Propofol|Whole Blood",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 8
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis 1",
+          "FontAndSize": {
+            "ChartWidth": 400,
+            "ChartHeight": 400,
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Propofol\nGepts 1987 12mg_kg\n2021-11-16 10:58"
+        }
+      ]
     },
     {
       "Name": "Gepts 1987 18mg_kg",
@@ -1379,7 +1563,213 @@
           }
         }
       ],
-      "HasResults": false
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": true,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µg/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Gepts 1987 - ID 209 - Propofol - IV - 18 mg/kg - Whole Blood - indiv.-Propofol-Arterial Blood-Whole Blood-Individual",
+              "X": "Gepts 1987 - ID 209 - Propofol - IV - 18 mg/kg - Whole Blood - indiv.|Time",
+              "Y": "Gepts 1987 - ID 209 - Propofol - IV - 18 mg/kg - Whole Blood - indiv.|ObservedData|Arterial Blood|Whole Blood|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#FF00FF",
+                "LegendIndex": 10,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Gepts 1987 - ID 208 - Propofol - IV - 18 mg/kg - Whole Blood - indiv.-Propofol-Arterial Blood-Whole Blood-Individual",
+              "X": "Gepts 1987 - ID 208 - Propofol - IV - 18 mg/kg - Whole Blood - indiv.|Time",
+              "Y": "Gepts 1987 - ID 208 - Propofol - IV - 18 mg/kg - Whole Blood - indiv.|ObservedData|Arterial Blood|Whole Blood|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#008000",
+                "LegendIndex": 9,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Gepts 1987 - ID 207 - Propofol - IV - 18 mg/kg - Whole Blood - indiv.-Propofol-Arterial Blood-Whole Blood-Individual",
+              "X": "Gepts 1987 - ID 207 - Propofol - IV - 18 mg/kg - Whole Blood - indiv.|Time",
+              "Y": "Gepts 1987 - ID 207 - Propofol - IV - 18 mg/kg - Whole Blood - indiv.|ObservedData|Arterial Blood|Whole Blood|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 8,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Gepts 1987 - ID 201 - Propofol - IV - 18 mg/kg - Whole Blood - indiv.-Propofol-Arterial Blood-Whole Blood-Individual",
+              "X": "Gepts 1987 - ID 201 - Propofol - IV - 18 mg/kg - Whole Blood - indiv.|Time",
+              "Y": "Gepts 1987 - ID 201 - Propofol - IV - 18 mg/kg - Whole Blood - indiv.|ObservedData|Arterial Blood|Whole Blood|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 7,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Propofol-Arterial Blood-Whole Blood-Concentration",
+              "X": "Time",
+              "Y": "Gepts 1987 18mg_kg|Organism|ArterialBlood|Propofol|Whole Blood",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 11
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "ChartWidth": 400,
+            "ChartHeight": 400,
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Propofol\nGepts 1987 18mg_kg\n2021-11-15 15:18"
+        },
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": true,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µg/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Propofol-Arterial Blood-Whole Blood-Concentration",
+              "X": "Time",
+              "Y": "Gepts 1987 18mg_kg|Organism|ArterialBlood|Propofol|Whole Blood",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 11
+              }
+            },
+            {
+              "Name": "Gepts 1987 - ID 201 - Propofol - IV - 18 mg/kg - Whole Blood - indiv.-Propofol-Arterial Blood-Whole Blood-Individual",
+              "X": "Gepts 1987 - ID 201 - Propofol - IV - 18 mg/kg - Whole Blood - indiv.|Time",
+              "Y": "Gepts 1987 - ID 201 - Propofol - IV - 18 mg/kg - Whole Blood - indiv.|ObservedData|Arterial Blood|Whole Blood|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 7,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Gepts 1987 - ID 207 - Propofol - IV - 18 mg/kg - Whole Blood - indiv.-Propofol-Arterial Blood-Whole Blood-Individual",
+              "X": "Gepts 1987 - ID 207 - Propofol - IV - 18 mg/kg - Whole Blood - indiv.|Time",
+              "Y": "Gepts 1987 - ID 207 - Propofol - IV - 18 mg/kg - Whole Blood - indiv.|ObservedData|Arterial Blood|Whole Blood|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 8,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Gepts 1987 - ID 208 - Propofol - IV - 18 mg/kg - Whole Blood - indiv.-Propofol-Arterial Blood-Whole Blood-Individual",
+              "X": "Gepts 1987 - ID 208 - Propofol - IV - 18 mg/kg - Whole Blood - indiv.|Time",
+              "Y": "Gepts 1987 - ID 208 - Propofol - IV - 18 mg/kg - Whole Blood - indiv.|ObservedData|Arterial Blood|Whole Blood|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#008000",
+                "LegendIndex": 9,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Gepts 1987 - ID 209 - Propofol - IV - 18 mg/kg - Whole Blood - indiv.-Propofol-Arterial Blood-Whole Blood-Individual",
+              "X": "Gepts 1987 - ID 209 - Propofol - IV - 18 mg/kg - Whole Blood - indiv.|Time",
+              "Y": "Gepts 1987 - ID 209 - Propofol - IV - 18 mg/kg - Whole Blood - indiv.|ObservedData|Arterial Blood|Whole Blood|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#FF00FF",
+                "LegendIndex": 10,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis 1",
+          "FontAndSize": {
+            "ChartWidth": 400,
+            "ChartHeight": 400,
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Propofol\nGepts 1987 18mg_kg\n2021-11-15 15:18"
+        }
+      ]
     },
     {
       "Name": "Gepts 1987 36mg_kg",
@@ -1461,7 +1851,147 @@
           }
         }
       ],
-      "HasResults": false
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": true,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µg/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Gepts 1987 - ID 204 - Propofol - IV - 36 mg/kg - Whole Blood - indiv.-Propofol-Arterial Blood-Whole Blood-Individual",
+              "X": "Gepts 1987 - ID 204 - Propofol - IV - 36 mg/kg - Whole Blood - indiv.|Time",
+              "Y": "Gepts 1987 - ID 204 - Propofol - IV - 36 mg/kg - Whole Blood - indiv.|ObservedData|Arterial Blood|Whole Blood|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 2,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Propofol-Arterial Blood-Whole Blood-Concentration",
+              "X": "Time",
+              "Y": "Gepts 1987 36mg_kg|Organism|ArterialBlood|Propofol|Whole Blood",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 3
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "ChartWidth": 400,
+            "ChartHeight": 400,
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Propofol\nGepts 1987 36mg_kg\n2021-11-15 15:19"
+        },
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": true,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µg/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Gepts 1987 - ID 204 - Propofol - IV - 36 mg/kg - Whole Blood - indiv.-Propofol-Arterial Blood-Whole Blood-Individual",
+              "X": "Gepts 1987 - ID 204 - Propofol - IV - 36 mg/kg - Whole Blood - indiv.|Time",
+              "Y": "Gepts 1987 - ID 204 - Propofol - IV - 36 mg/kg - Whole Blood - indiv.|ObservedData|Arterial Blood|Whole Blood|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 3,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Propofol-Arterial Blood-Whole Blood-Concentration",
+              "X": "Time",
+              "Y": "Gepts 1987 36mg_kg|Organism|ArterialBlood|Propofol|Whole Blood",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 4
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis 1",
+          "FontAndSize": {
+            "ChartWidth": 400,
+            "ChartHeight": 400,
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Propofol\nGepts 1987 36mg_kg\n2021-11-15 15:19"
+        }
+      ]
     },
     {
       "Name": "Gepts-1987 6mg_kg",
@@ -1567,7 +2097,235 @@
           }
         }
       ],
-      "HasResults": false
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "min",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": true,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µg/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Gepts 1987 - ID 202 - Propofol - IV - 6 mg/kg - Whole Blood - indiv.-Propofol-Arterial Blood-Whole Blood-Individual",
+              "X": "Gepts 1987 - ID 202 - Propofol - IV - 6 mg/kg - Whole Blood - indiv.|Time",
+              "Y": "Gepts 1987 - ID 202 - Propofol - IV - 6 mg/kg - Whole Blood - indiv.|ObservedData|Arterial Blood|Whole Blood|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 8,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Gepts 1987 - ID 206 - Propofol - IV - 6 mg/kg - Whole Blood - indiv.-Propofol-Arterial Blood-Whole Blood-Individual",
+              "X": "Gepts 1987 - ID 206 - Propofol - IV - 6 mg/kg - Whole Blood - indiv.|Time",
+              "Y": "Gepts 1987 - ID 206 - Propofol - IV - 6 mg/kg - Whole Blood - indiv.|ObservedData|Arterial Blood|Whole Blood|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 9,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Gepts 1987 - ID 210 - Propofol - IV - 6 mg/kg - Whole Blood - indiv.-Propofol-Arterial Blood-Whole Blood-Individual",
+              "X": "Gepts 1987 - ID 210 - Propofol - IV - 6 mg/kg - Whole Blood - indiv.|Time",
+              "Y": "Gepts 1987 - ID 210 - Propofol - IV - 6 mg/kg - Whole Blood - indiv.|ObservedData|Arterial Blood|Whole Blood|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#008000",
+                "LegendIndex": 10,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Gepts 1987 - ID 211 - Propofol - IV - 6 mg/kg - Whole Blood - indiv.-Propofol-Arterial Blood-Whole Blood-Individual",
+              "X": "Gepts 1987 - ID 211 - Propofol - IV - 6 mg/kg - Whole Blood - indiv.|Time",
+              "Y": "Gepts 1987 - ID 211 - Propofol - IV - 6 mg/kg - Whole Blood - indiv.|ObservedData|Arterial Blood|Whole Blood|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#FF00FF",
+                "LegendIndex": 11,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Gepts 1987 - ID 217 - Propofol - IV - 6 mg/kg - Whole Blood - indiv.-Propofol-Arterial Blood-Whole Blood-Individual",
+              "X": "Gepts 1987 - ID 217 - Propofol - IV - 6 mg/kg - Whole Blood - indiv.|Time",
+              "Y": "Gepts 1987 - ID 217 - Propofol - IV - 6 mg/kg - Whole Blood - indiv.|ObservedData|Arterial Blood|Whole Blood|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#C000C0",
+                "LegendIndex": 12,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Propofol-Arterial Blood-Whole Blood-Concentration",
+              "X": "Time",
+              "Y": "Gepts-1987 6mg_kg|Organism|ArterialBlood|Propofol|Whole Blood",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 13
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "ChartWidth": 400,
+            "ChartHeight": 400,
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "Bottom",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Propofol\nGepts-1987 6mg_kg\n2021-11-15 15:19"
+        },
+        {
+          "Axes": [
+            {
+              "Unit": "min",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": true,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µg/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Gepts 1987 - ID 217 - Propofol - IV - 6 mg/kg - Whole Blood - indiv.-Propofol-Arterial Blood-Whole Blood-Individual",
+              "X": "Gepts 1987 - ID 217 - Propofol - IV - 6 mg/kg - Whole Blood - indiv.|Time",
+              "Y": "Gepts 1987 - ID 217 - Propofol - IV - 6 mg/kg - Whole Blood - indiv.|ObservedData|Arterial Blood|Whole Blood|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#FF8000",
+                "LegendIndex": 12,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Gepts 1987 - ID 211 - Propofol - IV - 6 mg/kg - Whole Blood - indiv.-Propofol-Arterial Blood-Whole Blood-Individual",
+              "X": "Gepts 1987 - ID 211 - Propofol - IV - 6 mg/kg - Whole Blood - indiv.|Time",
+              "Y": "Gepts 1987 - ID 211 - Propofol - IV - 6 mg/kg - Whole Blood - indiv.|ObservedData|Arterial Blood|Whole Blood|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#FF00FF",
+                "LegendIndex": 11,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Gepts 1987 - ID 210 - Propofol - IV - 6 mg/kg - Whole Blood - indiv.-Propofol-Arterial Blood-Whole Blood-Individual",
+              "X": "Gepts 1987 - ID 210 - Propofol - IV - 6 mg/kg - Whole Blood - indiv.|Time",
+              "Y": "Gepts 1987 - ID 210 - Propofol - IV - 6 mg/kg - Whole Blood - indiv.|ObservedData|Arterial Blood|Whole Blood|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#008000",
+                "LegendIndex": 10,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Gepts 1987 - ID 206 - Propofol - IV - 6 mg/kg - Whole Blood - indiv.-Propofol-Arterial Blood-Whole Blood-Individual",
+              "X": "Gepts 1987 - ID 206 - Propofol - IV - 6 mg/kg - Whole Blood - indiv.|Time",
+              "Y": "Gepts 1987 - ID 206 - Propofol - IV - 6 mg/kg - Whole Blood - indiv.|ObservedData|Arterial Blood|Whole Blood|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 9,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Gepts 1987 - ID 202 - Propofol - IV - 6 mg/kg - Whole Blood - indiv.-Propofol-Arterial Blood-Whole Blood-Individual",
+              "X": "Gepts 1987 - ID 202 - Propofol - IV - 6 mg/kg - Whole Blood - indiv.|Time",
+              "Y": "Gepts 1987 - ID 202 - Propofol - IV - 6 mg/kg - Whole Blood - indiv.|ObservedData|Arterial Blood|Whole Blood|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 8,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Propofol-Arterial Blood-Whole Blood-Concentration",
+              "X": "Time",
+              "Y": "Gepts-1987 6mg_kg|Organism|ArterialBlood|Propofol|Whole Blood",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 13
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis 1",
+          "FontAndSize": {
+            "ChartWidth": 400,
+            "ChartHeight": 400,
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "Bottom",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Propofol\nGepts-1987 6mg_kg\n2021-11-15 15:19"
+        }
+      ]
     },
     {
       "Name": "Schnider 1998 1mg&25ug",
@@ -1701,7 +2459,209 @@
           }
         }
       ],
-      "HasResults": false
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": true,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µg/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": true,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Schnider 1998 1mg&25ug-Propofol-Arterial Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Schnider 1998 1mg&25ug|Organism|ArterialBlood|Plasma|Propofol|Concentration in container",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID6a - Propofol - IV - 1 + 1.5 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID6a - Propofol - IV - 1 + 1.5 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID6a - Propofol - IV - 1 + 1.5 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#FF00FF",
+                "LegendIndex": 5,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID6b - Propofol - IV - 1 + 1.5 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID6b - Propofol - IV - 1 + 1.5 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID6b - Propofol - IV - 1 + 1.5 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#008000",
+                "LegendIndex": 4,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID5b - Propofol - IV - 1 + 1.5 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID5b - Propofol - IV - 1 + 1.5 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID5b - Propofol - IV - 1 + 1.5 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 3,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID5a - Propofol - IV - 1 + 1.5 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID5a - Propofol - IV - 1 + 1.5 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID5a - Propofol - IV - 1 + 1.5 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 2,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Propofol\nSchnider 1998 1mg&25ug\n2021-11-15 15:17"
+        },
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": true,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µg/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": true,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Schnider 1998 1mg&25ug-Propofol-Arterial Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Schnider 1998 1mg&25ug|Organism|ArterialBlood|Plasma|Propofol|Concentration in container",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID5a - Propofol - IV - 1 + 1.5 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID5a - Propofol - IV - 1 + 1.5 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID5a - Propofol - IV - 1 + 1.5 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 6,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID5b - Propofol - IV - 1 + 1.5 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID5b - Propofol - IV - 1 + 1.5 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID5b - Propofol - IV - 1 + 1.5 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 7,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID6b - Propofol - IV - 1 + 1.5 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID6b - Propofol - IV - 1 + 1.5 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID6b - Propofol - IV - 1 + 1.5 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#008000",
+                "LegendIndex": 8,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID6a - Propofol - IV - 1 + 1.5 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID6a - Propofol - IV - 1 + 1.5 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID6a - Propofol - IV - 1 + 1.5 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#FF00FF",
+                "LegendIndex": 9,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis 1",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Propofol\nSchnider 1998 1mg&25ug\n2021-11-15 15:17"
+        }
+      ]
     },
     {
       "Name": "Schnider 1998 1mg&50ug",
@@ -1835,7 +2795,209 @@
           }
         }
       ],
-      "HasResults": false
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": true,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µg/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": true,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Schnider 1998 1mg&50ug-Propofol-Arterial Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Schnider 1998 1mg&50ug|Organism|ArterialBlood|Plasma|Propofol|Concentration in container",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID11a - Propofol - IV - 1 + 3 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID11a - Propofol - IV - 1 + 3 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID11a - Propofol - IV - 1 + 3 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 2,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID11b - Propofol - IV - 1 + 3 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID11b - Propofol - IV - 1 + 3 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID11b - Propofol - IV - 1 + 3 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 3,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID12a - Propofol - IV - 1 + 3 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID12a - Propofol - IV - 1 + 3 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID12a - Propofol - IV - 1 + 3 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#008000",
+                "LegendIndex": 4,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID12b - Propofol - IV - 1 + 3 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID12b - Propofol - IV - 1 + 3 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID12b - Propofol - IV - 1 + 3 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#FF00FF",
+                "LegendIndex": 5,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Propofol\n#45_Schnider 1998 1mg&50ug\n2018-09-19 10:18"
+        },
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": true,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µg/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": true,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Schnider 1998 1mg&50ug-Propofol-Arterial Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Schnider 1998 1mg&50ug|Organism|ArterialBlood|Plasma|Propofol|Concentration in container",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID11a - Propofol - IV - 1 + 3 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID11a - Propofol - IV - 1 + 3 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID11a - Propofol - IV - 1 + 3 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 6,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID11b - Propofol - IV - 1 + 3 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID11b - Propofol - IV - 1 + 3 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID11b - Propofol - IV - 1 + 3 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 7,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID12a - Propofol - IV - 1 + 3 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID12a - Propofol - IV - 1 + 3 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID12a - Propofol - IV - 1 + 3 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#008000",
+                "LegendIndex": 8,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID12b - Propofol - IV - 1 + 3 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID12b - Propofol - IV - 1 + 3 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID12b - Propofol - IV - 1 + 3 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#FF00FF",
+                "LegendIndex": 9,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis 1",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Propofol\n#45_Schnider 1998 1mg&50ug\n2018-09-19 10:18"
+        }
+      ]
     },
     {
       "Name": "Schnider 1998 2mg&100ug",
@@ -1993,7 +3155,297 @@
           }
         }
       ],
-      "HasResults": false
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": true,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µg/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": true,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Schnider 1998 2mg&100ug-Propofol-Arterial Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Schnider 1998 2mg&100ug|Organism|ArterialBlood|Plasma|Propofol|Concentration in container",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 10
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID13a - Propofol - IV - 2 + 6 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID13a - Propofol - IV - 2 + 6 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID13a - Propofol - IV - 2 + 6 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 11,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID13b - Propofol - IV - 2 + 6 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID13b - Propofol - IV - 2 + 6 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID13b - Propofol - IV - 2 + 6 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 12,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID14a - Propofol - IV - 2 + 6 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID14a - Propofol - IV - 2 + 6 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID14a - Propofol - IV - 2 + 6 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#008000",
+                "LegendIndex": 13,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID14b - Propofol - IV - 2 + 6 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID14b - Propofol - IV - 2 + 6 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID14b - Propofol - IV - 2 + 6 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#FF00FF",
+                "LegendIndex": 14,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID15a - Propofol - IV - 2 + 6 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID15a - Propofol - IV - 2 + 6 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID15a - Propofol - IV - 2 + 6 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#FF8000",
+                "LegendIndex": 15,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID15b - Propofol - IV - 2 + 6 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID15b - Propofol - IV - 2 + 6 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID15b - Propofol - IV - 2 + 6 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#00C0C0",
+                "LegendIndex": 16,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID16a - Propofol - IV - 2 + 6 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID16a - Propofol - IV - 2 + 6 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID16a - Propofol - IV - 2 + 6 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#C000C0",
+                "LegendIndex": 17,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID16b - Propofol - IV - 2 + 6 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID16b - Propofol - IV - 2 + 6 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID16b - Propofol - IV - 2 + 6 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#C04000",
+                "LegendIndex": 18,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Propofol\n#45_Schnider 1998 2mg&100ug\n2018-09-19 10:19"
+        },
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": true,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µg/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": true,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Schnider 1998 2mg&100ug-Propofol-Arterial Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Schnider 1998 2mg&100ug|Organism|ArterialBlood|Plasma|Propofol|Concentration in container",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 10
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID13a - Propofol - IV - 2 + 6 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID13a - Propofol - IV - 2 + 6 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID13a - Propofol - IV - 2 + 6 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 11,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID13b - Propofol - IV - 2 + 6 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID13b - Propofol - IV - 2 + 6 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID13b - Propofol - IV - 2 + 6 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 12,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID14a - Propofol - IV - 2 + 6 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID14a - Propofol - IV - 2 + 6 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID14a - Propofol - IV - 2 + 6 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#008000",
+                "LegendIndex": 13,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID14b - Propofol - IV - 2 + 6 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID14b - Propofol - IV - 2 + 6 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID14b - Propofol - IV - 2 + 6 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#FF00FF",
+                "LegendIndex": 14,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID15a - Propofol - IV - 2 + 6 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID15a - Propofol - IV - 2 + 6 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID15a - Propofol - IV - 2 + 6 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#00FF00",
+                "LegendIndex": 15,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID15b - Propofol - IV - 2 + 6 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID15b - Propofol - IV - 2 + 6 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID15b - Propofol - IV - 2 + 6 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#808080",
+                "LegendIndex": 16,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID16a - Propofol - IV - 2 + 6 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID16a - Propofol - IV - 2 + 6 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID16a - Propofol - IV - 2 + 6 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#C0C000",
+                "LegendIndex": 17,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID16b - Propofol - IV - 2 + 6 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID16b - Propofol - IV - 2 + 6 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID16b - Propofol - IV - 2 + 6 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#8080FF",
+                "LegendIndex": 18,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis 1",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Propofol\n#45_Schnider 1998 2mg&100ug\n2018-09-19 10:19"
+        }
+      ]
     },
     {
       "Name": "Schnider 1998 2mg&200ug",
@@ -2151,7 +3603,297 @@
           }
         }
       ],
-      "HasResults": false
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": true,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µg/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": true,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Schnider 1998 2mg&200ug-Propofol-Arterial Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Schnider 1998 2mg&200ug|Organism|ArterialBlood|Plasma|Propofol|Concentration in container",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID22b - Propofol - IV - 2 + 12 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID22b - Propofol - IV - 2 + 12 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID22b - Propofol - IV - 2 + 12 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#C04000",
+                "LegendIndex": 9,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID22a - Propofol - IV - 2 + 12  mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID22a - Propofol - IV - 2 + 12  mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID22a - Propofol - IV - 2 + 12  mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#C000C0",
+                "LegendIndex": 8,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID21b - Propofol - IV - 2 + 12 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID21b - Propofol - IV - 2 + 12 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID21b - Propofol - IV - 2 + 12 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#00C0C0",
+                "LegendIndex": 7,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID21a - Propofol - IV - 2 + 12 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID21a - Propofol - IV - 2 + 12 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID21a - Propofol - IV - 2 + 12 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#FF8000",
+                "LegendIndex": 6,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID20b - Propofol - IV - 2 + 12 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID20b - Propofol - IV - 2 + 12 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID20b - Propofol - IV - 2 + 12 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#FF00FF",
+                "LegendIndex": 5,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID20a - Propofol - IV - 2 + 12 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID20a - Propofol - IV - 2 + 12 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID20a - Propofol - IV - 2 + 12 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#008000",
+                "LegendIndex": 4,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID19b - Propofol - IV - 2 + 12 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID19b - Propofol - IV - 2 + 12 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID19b - Propofol - IV - 2 + 12 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 3,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID19a - Propofol - IV - 2 + 12 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID19a - Propofol - IV - 2 + 12 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID19a - Propofol - IV - 2 + 12 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 2,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Propofol_clean2\n#45_Schnider 1998 2mg&200ug\n2019-07-24 14:05"
+        },
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": true,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µg/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": true,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Schnider 1998 2mg&200ug-Propofol-Arterial Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Schnider 1998 2mg&200ug|Organism|ArterialBlood|Plasma|Propofol|Concentration in container",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID19a - Propofol - IV - 2 + 12 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID19a - Propofol - IV - 2 + 12 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID19a - Propofol - IV - 2 + 12 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 10,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID19b - Propofol - IV - 2 + 12 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID19b - Propofol - IV - 2 + 12 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID19b - Propofol - IV - 2 + 12 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 11,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID20a - Propofol - IV - 2 + 12 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID20a - Propofol - IV - 2 + 12 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID20a - Propofol - IV - 2 + 12 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#008000",
+                "LegendIndex": 12,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID20b - Propofol - IV - 2 + 12 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID20b - Propofol - IV - 2 + 12 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID20b - Propofol - IV - 2 + 12 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#FF00FF",
+                "LegendIndex": 13,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID21a - Propofol - IV - 2 + 12 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID21a - Propofol - IV - 2 + 12 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID21a - Propofol - IV - 2 + 12 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#00FF00",
+                "LegendIndex": 14,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID21b - Propofol - IV - 2 + 12 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID21b - Propofol - IV - 2 + 12 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID21b - Propofol - IV - 2 + 12 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#808080",
+                "LegendIndex": 15,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID22a - Propofol - IV - 2 + 12  mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID22a - Propofol - IV - 2 + 12  mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID22a - Propofol - IV - 2 + 12  mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#C0C000",
+                "LegendIndex": 16,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID22b - Propofol - IV - 2 + 12 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID22b - Propofol - IV - 2 + 12 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID22b - Propofol - IV - 2 + 12 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#8080FF",
+                "LegendIndex": 17,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis 1",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Propofol_clean2\n#45_Schnider 1998 2mg&200ug\n2019-07-24 14:05"
+        }
+      ]
     },
     {
       "Name": "Schnider 1998 2mg&25ug",
@@ -2297,7 +4039,253 @@
           }
         }
       ],
-      "HasResults": false
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": true,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µg/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Schnider 1998 - ID4b - Propofol - IV - 2 + 1.5 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID4b - Propofol - IV - 2 + 1.5 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID4b - Propofol - IV - 2 + 1.5 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#00C0C0",
+                "LegendIndex": 14,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID4a - Propofol - IV - 2 + 1.5 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID4a - Propofol - IV - 2 + 1.5 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID4a - Propofol - IV - 2 + 1.5 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#FF8000",
+                "LegendIndex": 13,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID3b - Propofol - IV - 2 + 1.5 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID3b - Propofol - IV - 2 + 1.5 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID3b - Propofol - IV - 2 + 1.5 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#FF00FF",
+                "LegendIndex": 12,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID3a - Propofol - IV - 2 + 1.5 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID3a - Propofol - IV - 2 + 1.5 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID3a - Propofol - IV - 2 + 1.5 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#008000",
+                "LegendIndex": 11,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID2b - Propofol - IV - 2 + 1.5 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID2b - Propofol - IV - 2 + 1.5 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID2b - Propofol - IV - 2 + 1.5 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 10,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID2a - Propofol - IV - 2 + 1.5 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID2a - Propofol - IV - 2 + 1.5 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID2a - Propofol - IV - 2 + 1.5 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 9,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 2mg&25ug-Propofol-Arterial Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Schnider 1998 2mg&25ug|Organism|ArterialBlood|Plasma|Propofol|Concentration in container",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 8
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Propofol\n#45_Schnider 1998 2mg&25ug\n2018-09-19 10:24"
+        },
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": true,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µg/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Schnider 1998 2mg&25ug-Propofol-Arterial Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Schnider 1998 2mg&25ug|Organism|ArterialBlood|Plasma|Propofol|Concentration in container",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 8
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID2a - Propofol - IV - 2 + 1.5 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID2a - Propofol - IV - 2 + 1.5 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID2a - Propofol - IV - 2 + 1.5 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 9,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID2b - Propofol - IV - 2 + 1.5 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID2b - Propofol - IV - 2 + 1.5 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID2b - Propofol - IV - 2 + 1.5 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 10,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID3a - Propofol - IV - 2 + 1.5 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID3a - Propofol - IV - 2 + 1.5 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID3a - Propofol - IV - 2 + 1.5 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#008000",
+                "LegendIndex": 11,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID3b - Propofol - IV - 2 + 1.5 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID3b - Propofol - IV - 2 + 1.5 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID3b - Propofol - IV - 2 + 1.5 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#FF00FF",
+                "LegendIndex": 12,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID4a - Propofol - IV - 2 + 1.5 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID4a - Propofol - IV - 2 + 1.5 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID4a - Propofol - IV - 2 + 1.5 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#C04000",
+                "LegendIndex": 13,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID4b - Propofol - IV - 2 + 1.5 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID4b - Propofol - IV - 2 + 1.5 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID4b - Propofol - IV - 2 + 1.5 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#00FF00",
+                "LegendIndex": 14,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis 1",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Propofol\n#45_Schnider 1998 2mg&25ug\n2018-09-19 10:24"
+        }
+      ]
     },
     {
       "Name": "Schnider 1998 2mg&50ug",
@@ -2455,7 +4443,297 @@
           }
         }
       ],
-      "HasResults": false
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": true,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µg/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": true,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Schnider 1998 2mg&50ug-Propofol-Arterial Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Schnider 1998 2mg&50ug|Organism|ArterialBlood|Plasma|Propofol|Concentration in container",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID10b - Propofol - IV - 2 + 3 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID10b - Propofol - IV - 2 + 3 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID10b - Propofol - IV - 2 + 3 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#C04000",
+                "LegendIndex": 9,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID10a - Propofol - IV - 2 + 3 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID10a - Propofol - IV - 2 + 3 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID10a - Propofol - IV - 2 + 3 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#C000C0",
+                "LegendIndex": 8,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID9b - Propofol - IV - 2 + 3 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID9b - Propofol - IV - 2 + 3 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID9b - Propofol - IV - 2 + 3 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#00C0C0",
+                "LegendIndex": 7,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID9a - Propofol - IV - 2 + 3 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID9a - Propofol - IV - 2 + 3 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID9a - Propofol - IV - 2 + 3 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#FF8000",
+                "LegendIndex": 6,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID8b - Propofol - IV - 2 + 3 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID8b - Propofol - IV - 2 + 3 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID8b - Propofol - IV - 2 + 3 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#FF00FF",
+                "LegendIndex": 5,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID8a - Propofol - IV - 2 + 3 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID8a - Propofol - IV - 2 + 3 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID8a - Propofol - IV - 2 + 3 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#008000",
+                "LegendIndex": 4,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID7b - Propofol - IV - 2 + 3 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID7b - Propofol - IV - 2 + 3 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID7b - Propofol - IV - 2 + 3 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 3,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID7a - Propofol - IV - 2 + 3 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID7a - Propofol - IV - 2 + 3 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID7a - Propofol - IV - 2 + 3 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 2,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Propofol_clean2\n#45_Schnider 1998 2mg&50ug\n2019-07-24 14:04"
+        },
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": true,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µg/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": true,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Schnider 1998 2mg&50ug-Propofol-Arterial Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Schnider 1998 2mg&50ug|Organism|ArterialBlood|Plasma|Propofol|Concentration in container",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID7a - Propofol - IV - 2 + 3 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID7a - Propofol - IV - 2 + 3 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID7a - Propofol - IV - 2 + 3 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 10,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID7b - Propofol - IV - 2 + 3 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID7b - Propofol - IV - 2 + 3 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID7b - Propofol - IV - 2 + 3 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 11,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID8a - Propofol - IV - 2 + 3 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID8a - Propofol - IV - 2 + 3 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID8a - Propofol - IV - 2 + 3 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#008000",
+                "LegendIndex": 12,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID8b - Propofol - IV - 2 + 3 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID8b - Propofol - IV - 2 + 3 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID8b - Propofol - IV - 2 + 3 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#FF00FF",
+                "LegendIndex": 13,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID9a - Propofol - IV - 2 + 3 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID9a - Propofol - IV - 2 + 3 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID9a - Propofol - IV - 2 + 3 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#00FF00",
+                "LegendIndex": 14,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID9b - Propofol - IV - 2 + 3 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID9b - Propofol - IV - 2 + 3 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID9b - Propofol - IV - 2 + 3 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#808080",
+                "LegendIndex": 15,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID10a - Propofol - IV - 2 + 3 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID10a - Propofol - IV - 2 + 3 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID10a - Propofol - IV - 2 + 3 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#C0C000",
+                "LegendIndex": 16,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Schnider 1998 - ID10b - Propofol - IV - 2 + 3 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Schnider 1998 - ID10b - Propofol - IV - 2 + 3 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Schnider 1998 - ID10b - Propofol - IV - 2 + 3 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#8080FF",
+                "LegendIndex": 17,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis 1",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Propofol_clean2\n#45_Schnider 1998 2mg&50ug\n2019-07-24 14:04"
+        }
+      ]
     },
     {
       "Name": "Struys 2007 Bolus Study",
@@ -2591,7 +4869,341 @@
           }
         }
       ],
-      "HasResults": false
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "min",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": true,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µg/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Struys 2007 Bolus Study-Propofol-Arterial Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Struys 2007 Bolus Study|Organism|ArterialBlood|Plasma|Propofol|Concentration in container",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 12
+              }
+            },
+            {
+              "Name": "Struys 2007 - ID9 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Struys 2007 - ID9 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Struys 2007 - ID9 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#808080",
+                "LegendIndex": 22,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Struys 2007 - ID8 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Struys 2007 - ID8 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Struys 2007 - ID8 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#00FF00",
+                "LegendIndex": 21,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Struys 2007 - ID7 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Struys 2007 - ID7 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Struys 2007 - ID7 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#C04000",
+                "LegendIndex": 20,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Struys 2007 - ID6 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Struys 2007 - ID6 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Struys 2007 - ID6 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#C000C0",
+                "LegendIndex": 19,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Struys 2007 - ID5 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Struys 2007 - ID5 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Struys 2007 - ID5 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#00C0C0",
+                "LegendIndex": 18,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Struys 2007 - ID4 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Struys 2007 - ID4 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Struys 2007 - ID4 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#FF8000",
+                "LegendIndex": 17,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Struys 2007 - ID3 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Struys 2007 - ID3 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Struys 2007 - ID3 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#FF00FF",
+                "LegendIndex": 16,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Struys 2007 - ID2 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Struys 2007 - ID2 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Struys 2007 - ID2 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#008000",
+                "LegendIndex": 15,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Struys 2007 - ID10 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Struys 2007 - ID10 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Struys 2007 - ID10 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 14,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Struys 2007 - ID1 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Struys 2007 - ID1 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Struys 2007 - ID1 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 13,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Propofol\nStruys 2007 Bolus Study\n2021-11-18 10:49"
+        },
+        {
+          "Axes": [
+            {
+              "Unit": "min",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": true,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µg/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Struys 2007 Bolus Study-Propofol-Arterial Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Struys 2007 Bolus Study|Organism|ArterialBlood|Plasma|Propofol|Concentration in container",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 12
+              }
+            },
+            {
+              "Name": "Struys 2007 - ID9 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Struys 2007 - ID9 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Struys 2007 - ID9 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#808080",
+                "LegendIndex": 22,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Struys 2007 - ID8 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Struys 2007 - ID8 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Struys 2007 - ID8 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#00FF00",
+                "LegendIndex": 21,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Struys 2007 - ID7 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Struys 2007 - ID7 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Struys 2007 - ID7 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#C04000",
+                "LegendIndex": 20,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Struys 2007 - ID6 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Struys 2007 - ID6 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Struys 2007 - ID6 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#C000C0",
+                "LegendIndex": 19,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Struys 2007 - ID5 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Struys 2007 - ID5 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Struys 2007 - ID5 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#00C0C0",
+                "LegendIndex": 18,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Struys 2007 - ID4 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Struys 2007 - ID4 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Struys 2007 - ID4 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#FF8000",
+                "LegendIndex": 17,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Struys 2007 - ID3 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Struys 2007 - ID3 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Struys 2007 - ID3 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#FF00FF",
+                "LegendIndex": 16,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Struys 2007 - ID2 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Struys 2007 - ID2 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Struys 2007 - ID2 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#008000",
+                "LegendIndex": 15,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Struys 2007 - ID10 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Struys 2007 - ID10 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Struys 2007 - ID10 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 14,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Struys 2007 - ID1 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.-Propofol-Arterial Blood-Plasma-Individual",
+              "X": "Struys 2007 - ID1 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.|Time",
+              "Y": "Struys 2007 - ID1 - Propofol - IV - 2.5 mg/kg - Arterial Plasma - indiv.|ObservedData|Arterial Blood|Plasma|Propofol|Individual",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 13,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis 1",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Propofol\nStruys 2007 Bolus Study\n2021-11-18 10:49"
+        }
+      ]
     }
   ],
   "ObservedData": [
