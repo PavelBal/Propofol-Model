@@ -1,6 +1,7 @@
 {
   "Name": "Propofol",
   "Version": 81,
+  "ApplicationName": "PK-Sim",
   "ExpressionProfiles": [
     {
       "Type": "Enzyme",
@@ -15603,6 +15604,5 @@
         }
       ]
     }
-  ],
-  "ApplicationName": "PK-Sim"
+  ]
 }
