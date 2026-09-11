@@ -1225,14 +1225,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|Infusion 2h 12mg_kg|No formulation|Application_1|ProtocolSchemaItem|Infusion time",
-          "Value": 120.0,
-          "Unit": "min",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|ArterialBlood|Propofol|Whole Blood"
       ],
@@ -1502,14 +1494,6 @@
               }
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|Infusion 2h 18mg_kg|No formulation|Application_1|ProtocolSchemaItem|Infusion time",
-          "Value": 120.0,
-          "Unit": "min",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -1807,14 +1791,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|Infusion 4h 36mg_kg|No formulation|Application_1|ProtocolSchemaItem|Infusion time",
-          "Value": 240.0,
-          "Unit": "min",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|ArterialBlood|Propofol|Whole Blood"
       ],
@@ -2031,14 +2007,6 @@
               }
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|Infusion 2h 6mg_kg|No formulation|Application_1|ProtocolSchemaItem|Infusion time",
-          "Value": 120.0,
-          "Unit": "min",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -2394,20 +2362,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|1mg_kg&25ug_kg_min|No formulation|Application_1|ProtocolSchemaItem|Infusion time",
-          "Value": 20.0,
-          "Unit": "s",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|1mg_kg&25ug_kg_min|No formulation|Application_2|ProtocolSchemaItem|Infusion time",
-          "Value": 60.0,
-          "Unit": "min",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|ArterialBlood|Plasma|Propofol|Concentration in container"
       ],
@@ -2728,20 +2682,6 @@
               }
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|1mg_kg&50ug_kg_min|No formulation|Application_1|ProtocolSchemaItem|Infusion time",
-          "Value": 20.0,
-          "Unit": "s",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|1mg_kg&50ug_kg_min|No formulation|Application_2|ProtocolSchemaItem|Infusion time",
-          "Value": 60.0,
-          "Unit": "min",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -3068,20 +3008,6 @@
               }
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|2mg_kg&100ug_kg_min|No formulation|Application_1|ProtocolSchemaItem|Infusion time",
-          "Value": 20.0,
-          "Unit": "s",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|2mg_kg&100ug_kg_min|No formulation|Application_2|ProtocolSchemaItem|Infusion time",
-          "Value": 60.0,
-          "Unit": "min",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -3518,20 +3444,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|2mg_kg&200ug_kg_min|No formulation|Application_1|ProtocolSchemaItem|Infusion time",
-          "Value": 20.0,
-          "Unit": "s",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|2mg_kg&200ug_kg_min|No formulation|Application_2|ProtocolSchemaItem|Infusion time",
-          "Value": 60.0,
-          "Unit": "min",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|ArterialBlood|Plasma|Propofol|Concentration in container"
       ],
@@ -3964,20 +3876,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|2mg_kg&25ug_kg_min|No formulation|Application_1|ProtocolSchemaItem|Infusion time",
-          "Value": 20.0,
-          "Unit": "s",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|2mg_kg&25ug_kg_min|No formulation|Application_2|ProtocolSchemaItem|Infusion time",
-          "Value": 60.0,
-          "Unit": "min",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|ArterialBlood|Plasma|Propofol|Concentration in container"
       ],
@@ -4356,20 +4254,6 @@
               }
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|2mg_kg&50ug_kg_min|No formulation|Application_1|ProtocolSchemaItem|Infusion time",
-          "Value": 20.0,
-          "Unit": "s",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|2mg_kg&50ug_kg_min|No formulation|Application_2|ProtocolSchemaItem|Infusion time",
-          "Value": 60.0,
-          "Unit": "min",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -4778,14 +4662,6 @@
               }
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|IV Bolus 2.5mg_kg|No formulation|Application_1|ProtocolSchemaItem|Infusion time",
-          "Value": 0.1666666667,
-          "Unit": "min",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
